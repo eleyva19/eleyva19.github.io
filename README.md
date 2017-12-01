@@ -1,4 +1,5 @@
-## Eleyva19
-**LEYVA**
-You can use the editor on Github to maintain and preview the content for your website in Markdown files. 
-Whenever you commit to this respository.
+### 360
+
+This is my 360 image 
+It was taken in the library when a lot of students were in there.  
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://360.vizor.io/embed/v/b3jrw" ></script>
